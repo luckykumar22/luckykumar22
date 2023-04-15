@@ -22,5 +22,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=luckykumar22&icon=5&color=6)](https://visitcount.itsvg.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luckykumar22&label=Profile%20views&color=0e75b6&style=flat" alt="luckykumar22" /> </p>
+
 
