@@ -1,4 +1,8 @@
-# 💫 About Me:<h1 align="center">Hi👋, I'm Lucky Kumar, a web developer with experience in HTML, CSS, ReactJS, JavaScript, Java, SQL, and MongoDB. Let's build something amazing together!</h1>
+# 💫 About Me:<h1 align="center">
+  Hi
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+  I'm Lucky Kumar, a web developer with experience in HTML, CSS, ReactJS, JavaScript, Java, SQL, and MongoDB. Let's build something amazing together!
+</h1>
 
 
 ## 🌐 Socials:
