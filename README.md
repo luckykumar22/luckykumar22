@@ -1,7 +1,4 @@
-<!----------------------------------- Heading Section ------------------------------------>
-# 💫 About Me:<h1 align="center">Hi
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Lucky Kumar</h1>
+# 💫 About Me:<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">I'm Lucky Kumar</h1>
 
 <h3>
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
