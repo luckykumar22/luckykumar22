@@ -3,7 +3,7 @@
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     I'm Lucky Kumar
-    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+<!--     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"> -->
 </h1>
 
 <!----------------------------------- About Section ------------------------------------>
@@ -28,7 +28,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luckykumar22&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=luckykumar22&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-
+-trophy.vercel.app/?username=luckykumar22&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -36,7 +37,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=luckykumar22&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=luckykumar22&icon=5&color=6)](https://visitcount.itsvg.in)
+---<p align="left">
+    <a href="https://github.com/luckykumar22">
+        <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
+    </a>
+    <a href="https://github.com/luckykumar22?tab=followers">
+        <img src="https://img.shields.io/github/followers/m-sehrawat?label=Followers&style=social" alt="followers-count">
+    </a>
+</p>
 
 
