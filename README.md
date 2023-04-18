@@ -29,12 +29,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=luckykumar22&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
+
+[![](https://visitcount.itsvg.in/api?id=luckykumar22&icon=0&color=0)](https://visitcount.itsvg.in)
 <p align="left">
-    <a href="https://github.com/luckykumar22">
-        <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
-    </a>
     <a href="https://github.com/luckykumar22?tab=followers">
-        <img src="https://img.shields.io/github/followers/m-sehrawat?label=Followers&style=social" alt="followers-count">
+        <img src="https://img.shields.io/github/followers/luckykumar22?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 
