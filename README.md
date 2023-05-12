@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
+This is a showcase of my Projects and Abilities.
 
 * 🌍  I'm based in Pune
 * ✉️  You can contact me at [luckykumar2204@gmail.com](mailto:luckykumar2204@gmail.com)
