@@ -47,10 +47,3 @@ src="https://img.shields.io/github/followers/luckykumar22?logo=github&style=for-
 <a href="http://www.github.com/luckykumar22"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=luckykumar22&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/luckykumar22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckykumar22&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/luckykumar22/Movie-Guide-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=luckykumar22&repo=Movie-Guide-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/luckykumar22/weather-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=luckykumar22&repo=weather-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-<div width="100%" align="center"><a href="https://github.com/luckykumar22/Gmail-Clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=luckykumar22&repo=Gmail-Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/luckykumar22/portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=luckykumar22&repo=portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
