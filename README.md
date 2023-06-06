@@ -48,11 +48,8 @@ src="https://img.shields.io/github/followers/luckykumar22?logo=github&style=for-
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luckykumar22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
+</div>
 <a href="http://www.github.com/luckykumar22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luckykumar22&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/luckykumar22"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=luckykumar22&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
-</div>
-
-<img src="https://raw.githubusercontent.com/luckykumar22/luckykumar22/output/snake.svg" alt="Snake animation" />
