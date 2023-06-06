@@ -1,7 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lucky Kumar
-===================================================================================================================================
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 
-Web Developer
+
+I'm Lucky Kumar  <img src = "https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" width = 30px height= 30px> Web Developer
 -------------
 
 This is a showcase of my Projects and Abilities.
@@ -14,7 +15,7 @@ This is a showcase of my Projects and Abilities.
 <a href="https://www.github.com/luckykumar22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/luckykumar22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+### Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30px">
 
 
 <h3 align="left">🏄‍♂️ Frontend</h3>
@@ -38,13 +39,20 @@ src="https://img.shields.io/github/followers/luckykumar22?logo=github&style=for-
 <p align="left"> <a href="https://www.facebook.com/luck22y" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/luckykumar22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/luck22y" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/luckykumar22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
-
+<div align="left">  
 <b>My GitHub Stats</b>
+  </div>
+<div align="left">
 
-<a href="http://www.github.com/luckykumar22"><img src="https://github-readme-stats.vercel.app/api?username=luckykumar22&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="luckykumar22's GitHub stats" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=luckykumar22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luckykumar22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 <a href="http://www.github.com/luckykumar22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=luckykumar22&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/luckykumar22"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=luckykumar22&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/luckykumar22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckykumar22&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/luckykumar22/luckykumar22/output/snake.svg" alt="Snake animation" />
