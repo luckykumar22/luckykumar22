@@ -1,11 +1,15 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<div align='center'>
+  <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+</div>
 
+<p align = "center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Technology%20Enthusiast;Constant%20Learner;Always+a+Student;&center=true&width=500&height=50"></a>
+</p>
 
-I'm Lucky Kumar  <img src = "https://media.giphy.com/media/hr9Z9s7a04vh22LHSw/giphy.gif" width = 30px height= 30px> Web Developer
 -------------
-
-This is a showcase of my Projects and Abilities.
+<div align = "center">
+<h3>This is a showcase of my Projects and Abilities.</h3>
+</div>
 
 * 🌍  I'm based in Pune
 * 🔭 I’m currently working on [WhatsApp Clone](https://whatsapp-clone-by-lucky.netlify.app/)
