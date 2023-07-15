@@ -11,7 +11,7 @@
 <h3>This is a showcase of my Projects and Abilities.</h3>
 </div>
 
-* 🌍  I'm based in Pune
+* 🌍  I'm based in Ghaziabad
 * 🔭 I’m currently working on [WhatsApp Clone](https://whatsapp-clone-by-lucky.netlify.app/)
 * ✉️  You can contact me at [luckykumar2204@gmail.com](mailto:luckykumar2204@gmail.com)
 
