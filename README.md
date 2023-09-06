@@ -4,6 +4,7 @@
 
 <p align = "center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Technology%20Enthusiast;Constant%20Learner;Always+a+Student;&center=true&width=500&height=50"></a>
+   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
 </p>
 
 -------------
