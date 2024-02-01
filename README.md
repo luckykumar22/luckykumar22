@@ -12,9 +12,10 @@
 <h3>This is a showcase of my Projects and Abilities.</h3>
 </div>
 
-* 🌍  I'm based in Ghaziabad
-* 🔭 I’m currently working on [WhatsApp Clone](https://whatsapp-clone-by-lucky.netlify.app/)
+* 🌍  I'm based in Ghaziabad (NCR)
+* 🔭 I’m currently working on [Django ToDoList](https://github.com/luckykumar22/Django-ToDoList.git)
 * ✉️  You can contact me at [luckykumar2204@gmail.com](mailto:luckykumar2204@gmail.com)
+* ♻️  I’m currently learning about Data Science
 
 [![](https://visitcount.itsvg.in/api?id=luckykumar22&icon=5&color=1)](https://visitcount.itsvg.in)
 <a href="https://www.github.com/luckykumar22" target="_blank" rel="noreferrer"><img
